@@ -1,7 +1,8 @@
 name: with_helper
 description: WithHelper is a simple helper class that can be used to add equal spacing between widgets in a list, either horizontally or vertically..
 version: 0.0.1
-homepage:
+homepage: https://github.com/yokohailemariam/with_helper
+repository: https://github.com/yokohailemariam/with_helper
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
