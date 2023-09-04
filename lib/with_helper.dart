@@ -2,7 +2,6 @@ library with_helper;
 
 import 'package:flutter/material.dart';
 
-/// A Calculator.
 class WithHelper {
   List<Widget> withSpacing(
       {double spacing = 0, List<Widget> children = const []}) {
