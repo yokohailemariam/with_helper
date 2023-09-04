@@ -27,7 +27,7 @@ flutter pub add with_helper
 
 ```dart
 Column(
-    children: WithHelper.withSpacing(
+    children: WithHelper().withSpacing(
         spacing:16
         childern:[
             Text('Sample'),
